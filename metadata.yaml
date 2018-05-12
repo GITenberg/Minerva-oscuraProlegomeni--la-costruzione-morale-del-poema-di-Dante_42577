@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41750'
     url: http://www.gutenberg.org/2009/agents/41750
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42577#Minerva-oscuraProlegomeni--la-costruzione-morale-del-poema-di-Dante
 gutenberg_bookshelf: IT Letteratura
 gutenberg_issued: '2013-04-22'
 gutenberg_type: Text
