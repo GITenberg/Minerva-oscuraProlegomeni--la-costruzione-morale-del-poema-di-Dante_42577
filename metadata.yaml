@@ -1,0 +1,30 @@
+_repo: Minerva-oscuraProlegomeni--la-costruzione-morale-del-poema-di-Dante_42577
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42577-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pascoli, Giovanni
+    birthdate: 1855
+    deathdate: 1912
+    gutenberg_agent_id: '41750'
+    url: http://www.gutenberg.org/2009/agents/41750
+description: ''
+gutenberg_bookshelf: IT Letteratura
+gutenberg_issued: '2013-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42577'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dante Alighieri, 1265-1321. Divina commedia'
+- !lcsh 'Dante Alighieri, 1265-1321 -- Criticism and interpretation'
+- !lcc 'PQ'
+title: 'Minerva oscura
+
+  Prolegomeni: la costruzione morale del poema di Dante'
+url: http://www.gutenberg.org/ebooks/42577
